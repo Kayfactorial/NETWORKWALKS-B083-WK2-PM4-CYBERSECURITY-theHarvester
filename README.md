@@ -2,7 +2,7 @@
 
 # 🔐 theHarvester Domain Reconnaissance
 
-**Conducting reconnaissance and footprinting using microsoft.com as a case study  Building an isolated virtual lab for penetration testing and ethical hacking practice**
+**Conducting reconnaissance and footprinting using microsoft.com as a case study**
 </div>
 
 <p align="center">
