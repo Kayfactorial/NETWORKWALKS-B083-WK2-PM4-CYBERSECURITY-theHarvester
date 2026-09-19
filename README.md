@@ -90,6 +90,12 @@ The findings in this project are **reconnaissance observations, not confirmed vu
 
 *Figure 1: theHarvester 4.10.1 Baidu search against `microsoft.com`.*
 
+
+![theHarvester all Search](https://github.com/adkasu/NETWORKWALKS-B083-WK2-PM4-CYBERSECURITY-theHarvester/blob/bd7b990271696a643552456aed85224de0e29c97/theHarvester03.png)
+
+*Figure 2: theHarvester 4.10.1 All method search against `microsoft.com`.*
+
+
 ## Lessons Learned
 
 1. Reconnaissance results depend heavily on the sources available to the tool.
