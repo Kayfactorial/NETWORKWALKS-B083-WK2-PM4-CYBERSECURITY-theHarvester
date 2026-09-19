@@ -125,6 +125,6 @@ The findings in this project are **reconnaissance observations, not confirmed vu
 ## Author
 
 **Adio Kabiru**  
-Network Engineer | Telecommunications Engineer | Cybersecurity Learner
+Network Engineer | Cybersecurity | Telecommunications Engineer | Network Security Engineer
 
 #Cybersecurity #NetworkSecurity #theHarvester #Reconnaissance #KaliLinux #OSINT #EthicalHacking
