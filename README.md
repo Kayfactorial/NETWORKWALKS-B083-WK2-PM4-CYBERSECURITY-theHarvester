@@ -86,7 +86,7 @@ The findings in this project are **reconnaissance observations, not confirmed vu
 
 ## Evidence
 
-![theHarvester Baidu Search](screenshots/theHarvester01.png)
+![theHarvester Baidu Search](https://github.com/adkasu/NETWORKWALKS-B083-WK2-PM4-CYBERSECURITY-theHarvester/blob/9f70ce0b61b4cd4590d9dfffbcab5b7b214e50f2/theHarvester02.png)
 
 *Figure 1: theHarvester 4.10.1 Baidu search against `microsoft.com`.*
 
