@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Adio%20Kabiru%20-C00000?style=flat-square" />
 </p>
 
-## Overview
+## Project Overview
 
 This project documents a practical domain reconnaissance exercise performed with **theHarvester 4.10.1** as part of the Networkwalks W2-PM4 cybersecurity assignment.
 
@@ -27,7 +27,7 @@ The exercise focused on collecting publicly available information associated wit
 
 > **Authorization and Ethics:** This repository is for cybersecurity education and authorized security assessment only. Do not use these techniques against systems or data outside an approved scope.
 
-## Objectives
+## Project Objectives
 
 - Understand passive/public-source reconnaissance.
 - Use theHarvester to collect domain-related information.
@@ -35,13 +35,13 @@ The exercise focused on collecting publicly available information associated wit
 - Document tool output and limitations.
 - Understand how reconnaissance contributes to attack-surface analysis.
 
-## Tool
+## Tools Used
 
 - **theHarvester:** 4.10.1
 - **Platform:** Kali Linux
 - **Target used in the exercise:** `microsoft.com`
 
-## Commands
+## Command line used
 
 ### Baidu-only search
 
